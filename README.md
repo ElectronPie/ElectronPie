@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me/Обо мне
 
 <!--
 **ElectronPie/ElectronPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Программирую на C/C++ и Lua, по бодьшей части игры и графические движки. Знаком с API OpenGL.
